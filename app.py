@@ -125,7 +125,7 @@ def voltar_ao_menu_principal():
 
 def opcao_invalida():
     '''Caso o usuário escolha uma opção que não esteja especificada no menu, o aplicativo irá retornar 
-        uma mensagem avisando que aqule opção é inválida'''
+        uma mensagem avisando que aquela opção é inválida'''
     
     os.system('cls')
     print('\n')
